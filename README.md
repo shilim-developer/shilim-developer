@@ -11,3 +11,6 @@
 shilim-developer/shilim-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Github activity graph
+![shilim's github activity graph](https://raw.githubusercontent.com/shilim-developer/shilim-developer/output/github-contribution-grid-snake.svg)
